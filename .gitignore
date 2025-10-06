@@ -1,0 +1,71 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+/dist
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# testing
+/coverage
+/jest-test-results.json
+
+# TypeScript
+*.tsbuildinfo
+
+# cache
+/.parcel-cache
+/.turbo
+/.next
+.cache
+.cache-loader
+
+# storybook
+.out
+storybook-static
+
+# ESLint and Prettier
+.eslintcache
+
+# Optional: Mac system files
+.AppleDouble
+.LSOverride
+
+# Optional: Windows thumbnail cache
+Thumbs.db
+
+# Optional: Linux trash folder
+.Trash-*
+
+# Firebase
+.firebase
+.firebaserc
+
+# Local env files
+.local
