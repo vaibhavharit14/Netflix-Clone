@@ -3,7 +3,7 @@ import "./Home.css";
 import Navbar from "../../Components/Navbar/Navbar";
 import hero_banner from "../../assets/home.webp";
 import hero_title from "../../assets/BG-Homee.webp";
-import play_icon from "../../assets/Play_icon.png";
+import play_icon from "../../assets/play_icon.png";
 import info_icon from "../../assets/info_icon.png";
 import TitleCards from "../../Components/TitleCards/TitleCards";
 import Footer from "../../Components/Footer/Footer";
