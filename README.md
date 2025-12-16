@@ -1,1 +1,1 @@
-View this site :-  https://netflix-clone-beta-rouge-45.vercel.app/login
+View this site :-  https://netflix-clone-beta-rouge-45.vercel.app
